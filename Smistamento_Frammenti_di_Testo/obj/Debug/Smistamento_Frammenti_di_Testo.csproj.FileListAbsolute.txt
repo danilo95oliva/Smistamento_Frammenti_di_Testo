@@ -1,0 +1,10 @@
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\bin\Debug\Smistamento_Frammenti_di_Testo.exe.config
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\bin\Debug\Smistamento_Frammenti_di_Testo.exe
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\bin\Debug\Smistamento_Frammenti_di_Testo.pdb
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\obj\Debug\Smistamento_Frammenti_di_Testo.csprojAssemblyReference.cache
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\obj\Debug\Smistamento_Frammenti_di_Testo.Properties.Resources.resources
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\obj\Debug\Smistamento_Frammenti_di_Testo.view.resources
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\obj\Debug\Smistamento_Frammenti_di_Testo.csproj.GenerateResource.cache
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\obj\Debug\Smistamento_Frammenti_di_Testo.csproj.CoreCompileInputs.cache
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\obj\Debug\Smistamento_Frammenti_di_Testo.exe
+C:\Users\Danilo.HP\source\repos\Smistamento_Frammenti_di_Testo\Smistamento_Frammenti_di_Testo\obj\Debug\Smistamento_Frammenti_di_Testo.pdb
